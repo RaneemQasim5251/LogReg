@@ -18,7 +18,7 @@ This is a sentiment analysis web application built using Flask. It allows users 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/sentiment-analysis-app.git
+   git clone https://github.com/RaneemQasim5251/sentiment-analysis-app.git 
    cd sentiment-analysis-app
    ```
 
