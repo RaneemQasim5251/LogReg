@@ -30,8 +30,7 @@ Ensure you have Python installed, then install the required Python packages.
 python app.py
 ```
 4. **Open in Browser**:
-Open 
+ 
 ```bash
 http://127.0.0.1:5000/
 ```
-in your web browser.
